@@ -5,7 +5,7 @@
     <main class="main">
 
         <!-- breadcrumb -->
-        <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
+        <div class="site-breadcrumb" style="background: url(public/assets/img/about/vokasi.jpeg)">
             <div class="container">
                 <h2 class="breadcrumb-title">About Us</h2>
                 <ul class="breadcrumb-menu">
@@ -26,17 +26,17 @@
                             <div class="about-img">
                                 <div class="row g-4">
                                     <div class="col-md-6">
-                                        <img class="img-1" src="assets/img/about/01.jpg" alt="">
+                                        <img class="img-1" src="public/assets/img/about/vokasi.jpeg" alt="">
                                         <div class="about-experience mt-4">
                                             <div class="about-experience-icon">
-                                                <img src="assets/img/icon/exchange-idea.svg" alt="">
+                                                <img src="public/assets/img/about/vokasi.jpeg" alt="">
                                             </div>
                                             <b class="text-start">30 Years Of <br> Quality Service</b>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
-                                        <img class="img-2" src="assets/img/about/02.jpg" alt="">
-                                        <img class="img-3 mt-4" src="assets/img/about/03.jpg" alt="">
+                                        <img class="img-2" src="public/assets/img/about/vokasi.jpeg" alt="">
+                                        <img class="img-3 mt-4" src="public/assets/img/about/vokasi.jpeg" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -51,10 +51,10 @@
                                 </h2>
                             </div>
                             <p class="about-text">
-                                Tersedia banyak variasi materi pembelajaran, namun sebagian besar telah 
-                                mengalami perubahan dengan tambahan humor atau kata-kata acak yang membuatnya 
-                                tampak kurang meyakinkan. Jika Anda ingin menggunakan materi pembelajaran 
-                                yang relevan dan terpercaya, Program Studi D3 Teknologi Informasi 
+                                Tersedia banyak variasi materi pembelajaran, namun sebagian besar telah
+                                mengalami perubahan dengan tambahan humor atau kata-kata acak yang membuatnya
+                                tampak kurang meyakinkan. Jika Anda ingin menggunakan materi pembelajaran
+                                yang relevan dan terpercaya, Program Studi D3 Teknologi Informasi
                                 hadir sebagai pilihan yang tepat.
                             <div class="about-content">
                                 <div class="row">
@@ -65,7 +65,7 @@
                                             </div>
                                             <div class="about-item-content">
                                                 <h5>Edukation Services</h5>
-                                                <p>D3 Teknologi Informasi menawarkan pembelajaran praktis 
+                                                <p>D3 Teknologi Informasi menawarkan pembelajaran praktis
                                                     berbasis teknologi yang efektif dan inspiratif.</p>
                                             </div>
                                         </div>
@@ -75,16 +75,16 @@
                                             </div>
                                             <div class="about-item-content">
                                                 <h5>International Hubs</h5>
-                                                <p>D3 Teknologi Informasi menjalin kolaborasi global 
+                                                <p>D3 Teknologi Informasi menjalin kolaborasi global
                                                     untuk memperluas wawasan dan jejaring mahasiswa.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-5">
                                         <div class="about-quote">
-                                            <p>"Perkuliahan adalah pintu untuk membuka peluang masa depan. 
-                                                Di Program Studi D3 Teknologi Informasi, setiap tantangan 
-                                                adalah langkah menuju pemahaman yang lebih dalam tentang dunia 
+                                            <p>"Perkuliahan adalah pintu untuk membuka peluang masa depan.
+                                                Di Program Studi D3 Teknologi Informasi, setiap tantangan
+                                                adalah langkah menuju pemahaman yang lebih dalam tentang dunia
                                                 digital. Teruslah belajar, berinovasi, dan jadilah bagian dari
                                                 perubahan yang menginspirasi."</p>
                                             <i class="far fa-quote-right"></i>
@@ -340,7 +340,7 @@
                             <span class="team-social-btn"><i class="far fa-share-nodes"></i></span>
                         </div>
                     </div>
-                    
+
                     <div class="col-md-6 col-lg-3">
                         <div class="team-item wow fadeInUp" data-wow-delay=".75s">
                             <div class="team-img">
@@ -420,7 +420,7 @@
                                 <div class="team-bio">
                                     <h5><a href="#"> Monalisa Pasaribu</a></h5>
                                     <span>, SS, M.Ed(TESOL) (S2 UOW,
-                                        Australia)                                       
+                                        Australia)
                                     </span>
                                 </div>
                             </div>
@@ -448,7 +448,7 @@
                             <span class="team-social-btn"><i class="far fa-share-nodes"></i></span>
                         </div>
                     </div>
-                    
+
                 </div>
             </div>
         </div>
