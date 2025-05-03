@@ -43,15 +43,15 @@
                                     <h3 class="mb-20"><strong>Sejarah Singkat Del</strong></h3>
                                     <h4 class="mb-20">Yayasan Del</h4>
                                     <p class="mb-20">
-                                        Jenderal TNI (Purn.) Luhut B. Pandjaitan mendirikan Yayasan Simargala pada tanggal 30 Agustus 2001 
+                                        Jenderal TNI (Purn.) Luhut B. Pandjaitan mendirikan Yayasan Simargala pada tanggal 30 Agustus 2001
                                         di Jakarta. Simargala adalah nama desa kelahiran beliau di Huta Namora, Kecamatan Silaen, Kabupaten Toba Samosir,
-                                         Sumatera Utara. Pendirian Yayasan Simargala dilandasi oleh keinginan luhur untuk meningkatkan keterampilan 
+                                         Sumatera Utara. Pendirian Yayasan Simargala dilandasi oleh keinginan luhur untuk meningkatkan keterampilan
                                          dan kesejahteraan masyarakat perdesaan yang kurang tersentuh pembangunan. Tekad yang kuat untuk
                                           berpartisipasi pada program pemerintahan dalam bidang pendidikan, sosial, kemanusiaan,
                                            seni dan budaya, dan kelestarian lingkungan.
                                            Masih pada tahun 2001, karena pertimbangan nama yang bersifat lokal,
-                                            Yayasan Simargala diubah menjadi Yayasan Del. Kata “Del” berasal dari 
-                                            usulan salah satu anggota Yayasan untuk menggunakan istilah “Del”, yang 
+                                            Yayasan Simargala diubah menjadi Yayasan Del. Kata “Del” berasal dari
+                                            usulan salah satu anggota Yayasan untuk menggunakan istilah “Del”, yang
                                             mengandung arti “pemimpin yang selalu berada selangkah lebih maju”. Yayasan
                                              Del adalah organisasi nir laba yang didirikan untuk membawa perubahan dan
                                               pembaharuan bagi individu dan juga masyarakat.
@@ -70,22 +70,20 @@
                                                 </div>
                                             </div>
                                             <p>Program Studi Teknologi Informasi Diploma Tiga  adalah salah satu dari 3 (tiga)
-                                                 program studi yang dikelola oleh Institut Teknologi Del (IT Del) yang berdiri 
+                                                 program studi yang dikelola oleh Institut Teknologi Del (IT Del) yang berdiri
                                                  pada tahun 2001 sesuai SK No. 222/D/O/2001 tertanggal 28 September 2001 dengan
                                                   nama Program Studi Teknologi Informasi. Program studi ini berlokasi
-                                                   di Jl. Sisingamangaraja, Desa Sitoluama, Kecamatan Laguboti, Toba Samosir, 
+                                                   di Jl. Sisingamangaraja, Desa Sitoluama, Kecamatan Laguboti, Toba Samosir,
                                                    Propinsi Sumatera Utara berjarak kurang lebih 200 km (lima jam perjalanan mobil)
-                                                    dari Medan sebagai Ibukota Propinsi Sumatera Utara. Desa Sitoluama adalah 
-                                                    suatu desa kecil yang berada di tepi Danau Toba dan dilalui oleh jalan 
-                                                    raya lintas propinsi dan berjarak sekitar 10 KM dari Balige sebagai ibukota Kabupaten Tobasa.</p>
-                                                    <p>Quisque a nisl id sem sollicitudin volutpat. Cras et commodo quam, vel congue
-                                                        ligula. Orci varius natoque penatibus et magnis dis parturient montes,
-                                                        nascetur ridiculus mus. Cras quis venenatis neque. Donec volutpat tellus
-                                                        lobortis mi ornare eleifend. Fusce eu nisl ut diam ultricies accumsan.
-                                                        Integer lobortis vestibulum nunc id porta. Curabitur aliquam arcu sed ex
-                                                        dictum, a facilisis urna porttitor. Fusce et mattis nisl. Sed iaculis libero
-                                                        consequat justo auctor iaculis. Vestibulum sed ex et magna tristique
-                                                        bibendum. Sed hendrerit neque nec est suscipit, id faucibus dolor convallis.
+                                                    dari Medan sebagai Ibukota Propinsi Sumatera Utara. Desa Sitoluama adalah
+                                                    suatu desa kecil yang berada di tepi Danau Toba dan dilalui oleh jalan
+                                                    raya lintas propinsi dan berjarak sekitar 10 KM dari Balige sebagai ibukota Kabupaten Tobasa.<br>
+                                                    Terletak di Desa Sitoluama yang asri, di tepi Danau Toba, IT Del menghadirkan ekosistem belajar yang
+                                                    tenang namun penuh tantangan. Mahasiswa didorong untuk berpikir kritis, bekerja kolaboratif,
+                                                    dan berinovasi melalui kurikulum terapan yang disesuaikan dengan kebutuhan industri 4.0.
+                                                    Didukung oleh tenaga pengajar berpengalaman, laboratorium modern, serta jejaring mitra industri
+                                                    dan akademik, lulusan D3 Teknologi Informasi IT Del dipersiapkan tidak hanya untuk memasuki dunia kerja, tetapi juga
+                                                    untuk menjadi agen perubahan yang berintegritas di tengah transformasi digital global.<br>
                                                     </p>
                                         </div>
 
@@ -95,15 +93,15 @@
                                         <ul class="department-single-list">
                                             <p>Kompetensi lulusan Program Studi Teknologi Informasi Diploma Tiga  yaitu:</p>
                                             <li><i class="far fa-check"></i>Mampu membangun, mengembangkan dan memelihara perangkat
-                                                 lunak dengan mengikuti dan menerapkan metode rekayasa perangkat 
-                                                 lunak yang baik dan benar, yang mencakup perangkat lunak pada 
+                                                 lunak dengan mengikuti dan menerapkan metode rekayasa perangkat
+                                                 lunak yang baik dan benar, yang mencakup perangkat lunak pada
                                                  platform desktop, web, dan mobile.</li>
                                             <li><i class="far fa-check"></i>Selain mampu dalam bidangnya, juga mempunyai landasan
-                                                 yang cukup terhadap semua bidang dasar informatika: jaringan komputer, 
+                                                 yang cukup terhadap semua bidang dasar informatika: jaringan komputer,
                                                  sistem informasi, dan teknologi informasi.</li>
                                             <li><i class="far fa-check"></i>Mampu untuk bekerja dalam tim.
                                             </li>
-                                            <li><i class="far fa-check"></i>Mempunyai softskill yang sesuai yaitu disiplin dan 
+                                            <li><i class="far fa-check"></i>Mempunyai softskill yang sesuai yaitu disiplin dan
                                                 sikap kerja yang profesional</li>
                                         </ul>
                                     </div>
