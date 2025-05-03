@@ -6,7 +6,7 @@
         <!-- hero slider -->
         <div class="hero-section">
             <div class="hero-slider owl-carousel owl-theme">
-                <div class="hero-single" style="background: url(assets/img/slider/slider-1.jpg)">
+                <div class="hero-single" style="background: url(public/admin/assets/img/vokasi.jpeg)">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-md-12 col-lg-7">
@@ -20,7 +20,7 @@
                                     </h1>
                                     <p data-animation="fadeInLeft" data-delay=".75s">
                                         <p data-animation="fadeInLeft" data-delay=".75s">
-                                            Program studi dari kampus IT del yang sudah berdiri sejak 2003, yang berdekatan 
+                                            Program studi dari kampus IT del yang sudah berdiri sejak 2003, yang berdekatan
                                             dengan berdirinya kampus IT del.
                                     </p>
                                     <div class="hero-btn" data-animation="fadeInUp" data-delay="1s">
@@ -34,7 +34,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="hero-single" style="background: url(assets/img/slider/slider-2.jpg)">
+                <div class="hero-single" style="background: url(C:\xampp\htdocs\New folder\ProyekAkhir1\public\admin\assets\img\01.jpg)">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-md-12 col-lg-7">
@@ -46,10 +46,10 @@
                                         D3 Teknologi Informasi
                                     </h1>
                                     <p data-animation="fadeInLeft" data-delay=".75s">
-                                        Program Studi D3 Teknologi Informasi hadir sebagai wadah pendidikan 
-                                        yang berfokus pada pengembangan keterampilan praktis dan pengetahuan teknologi terkini. 
-                                        Kami berkomitmen mencetak lulusan yang kreatif, kompeten, dan profesional, 
-                                        siap menghadapi tantangan industri digital dengan kemampuan teknis yang unggul 
+                                        Program Studi D3 Teknologi Informasi hadir sebagai wadah pendidikan
+                                        yang berfokus pada pengembangan keterampilan praktis dan pengetahuan teknologi terkini.
+                                        Kami berkomitmen mencetak lulusan yang kreatif, kompeten, dan profesional,
+                                        siap menghadapi tantangan industri digital dengan kemampuan teknis yang unggul
                                         dan inovasi berkelanjutan
                                     </p>
                                     <div class="hero-btn" data-animation="fadeInUp" data-delay="1s">
@@ -63,7 +63,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="hero-single" style="background: url(assets/img/slider/slider-3.jpg)">
+                <div class="hero-single" style="background-image: url('public/admin/assets/img/02.jpeg');">
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-md-12 col-lg-7">
@@ -75,7 +75,7 @@
                                         Keras-Gila-Berbahaya
                                     </h1>
                                     <p data-animation="fadeInLeft" data-delay=".75s">
-                                        Mengandung makna mahasiswa yang tangguh dan kuat dalam situasi apapun, mampu berpikir kritis, siap bersaing serta 
+                                        Mengandung makna mahasiswa yang tangguh dan kuat dalam situasi apapun, mampu berpikir kritis, siap bersaing serta
                                         Program Studi D3 Teknologi Informasi berkomitmen untuk menghasilkan
                                          lulusan yang berkualitas, berkompeten, dan siap bersaing di dunia industri digital.
                                     </p>
@@ -107,8 +107,8 @@
                                     <img src="assets/img/icon/scholarship.svg" alt="">
                                 </div>
                                 <div class="feature-content">
-                                    <h4 class="feature-title">Scholarship Facility</h4>
-                                    <p>It is a long established fact that a reader will be distracted.</p>
+                                    <h4 class="feature-title">IT Scholarship Program</h4>
+                                    <p>Kami menyediakan program beasiswa bagi calon mahasiswa IT Del  yang berprestasi dan berdedikasi..</p>
                                 </div>
                             </div>
                         </div>
@@ -119,8 +119,8 @@
                                     <img src="assets/img/icon/teacher.svg" alt="">
                                 </div>
                                 <div class="feature-content">
-                                    <h4 class="feature-title">Skilled Lecturers</h4>
-                                    <p>It is a long established fact that a reader will be distracted.</p>
+                                    <h4 class="feature-title">Expert IT Lecturers</h4>
+                                    <p>Dosen-dosen kami adalah profesional TI berpengalaman dengan keahlian industri dan akademik..</p>
                                 </div>
                             </div>
                         </div>
@@ -131,8 +131,8 @@
                                     <img src="assets/img/icon/library.svg" alt="">
                                 </div>
                                 <div class="feature-content">
-                                    <h4 class="feature-title">Book Library Facility</h4>
-                                    <p>It is a long established fact that a reader will be distracted.</p>
+                                    <h4 class="feature-title">Digital Library Access</h4>
+                                    <p>Akses ke perpustakaan digital lengkap dengan sumber daya terkini di bidang IT dan sains komputer.</p>
                                 </div>
                             </div>
                         </div>
@@ -143,8 +143,8 @@
                                     <img src="assets/img/icon/money.svg" alt="">
                                 </div>
                                 <div class="feature-content">
-                                    <h4 class="feature-title">Affordable Price</h4>
-                                    <p>It is a long established fact that a reader will be distracted.</p>
+                                    <h4 class="feature-title">Cost-Effective IT Education</h4>
+                                    <p>Pendidikan berkualitas di bidang TI dengan biaya terjangkau bagi semua kalangan.</p>
                                 </div>
                             </div>
                         </div>
@@ -185,19 +185,23 @@
                             <div class="site-heading mb-3">
                                 <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> About Us</span>
                                 <h2 class="site-title">
-                                    Our Edukation System <span>Inspires</span> You More.
+                                    Our IT-Based Education System<span>Empowers</span> Your Future.
                                 </h2>
                             </div>
                             <p class="about-text">
-                                Program Studi Teknologi Informasi Diploma Tiga  adalah salah satu dari 3 (tiga)
-                                program studi yang dikelola oleh Institut Teknologi Del (IT Del) yang berdiri 
-                                pada tahun 2001 sesuai SK No. 222/D/O/2001 tertanggal 28 September 2001 dengan 
-                                nama Program Studi Teknologi Informasi. Program studi ini berlokasi di Jl. Sisingamangaraja,
-                               Desa Sitoluama, Kecamatan Laguboti, Toba Samosir, Propinsi Sumatera Utara berjarak
-                               kurang lebih 200 km (lima jam perjalanan mobil) dari Medan sebagai Ibukota 
-                               Propinsi Sumatera Utara. Desa Sitoluama adalah suatu desa kecil yang berada di
-                                tepi Danau Toba dan dilalui oleh jalan raya lintas propinsi dan berjarak sekitar
-                                 10 KM dari Balige sebagai ibukota Kabupaten Tobasa.
+                                Program Studi D3 Teknologi Informasi di Institut Teknologi Del dirancang untuk membentuk
+                                generasi profesional yang unggul secara teknis, tangguh secara karakter, dan adaptif
+                                terhadap perkembangan zaman. Sejak didirikan pada tahun 2001, program ini telah menjadi
+                                pelopor pendidikan vokasional berbasis teknologi informasi di Sumatera Utara, dengan
+                                semangat MarTuhan, Marroha, dan Marbisuk sebagai jiwa dari setiap proses pembelajaran.<br>
+
+                                Terletak di Desa Sitoluama yang asri, di tepi Danau Toba, IT Del menghadirkan ekosistem
+                                belajar yang tenang namun penuh tantangan. Mahasiswa didorong untuk berpikir kritis,
+                                bekerja kolaboratif, dan berinovasi melalui kurikulum terapan yang disesuaikan dengan
+                                kebutuhan industri 4.0. Didukung oleh tenaga pengajar berpengalaman, laboratorium modern,
+                                serta jejaring mitra industri dan akademik, lulusan D3 Teknologi Informasi IT Del dipersiapkan tidak hanya
+                                untuk memasuki dunia kerja, tetapi juga untuk menjadi agen perubahan yang berintegritas di
+                                tengah transformasi digital global.<br>
                             </p>
                             <div class="about-content">
                                 <div class="row">
@@ -207,8 +211,8 @@
                                                 <img src="assets/img/icon/open-book.svg" alt="">
                                             </div>
                                             <div class="about-item-content">
-                                                <h5>Edukation Services</h5>
-                                                <p>It is a long established fact that reader will to using content.</p>
+                                                <h5>Layanan Pembelajaran Digital</h5>
+                                                <p>Pembelajaran interaktif berbasis sistem digital yang mendukung fleksibilitas dan efektivitas studi.</p>
                                             </div>
                                         </div>
                                         <div class="about-item">
@@ -216,16 +220,16 @@
                                                 <img src="assets/img/icon/global-education.svg" alt="">
                                             </div>
                                             <div class="about-item-content">
-                                                <h5>International Hubs</h5>
-                                                <p>It is a long established fact that reader will to using content.</p>
+                                                <h5>kolaborasi</h5>
+                                                <p>Terhubung dengan komunitas teknologi global melalui kolaborasi dan program pertukaran.</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-5">
                                         <div class="about-quote">
-                                            <p>It is a long established fact that a reader will be distracted by the
-                                                content of
-                                                a page when looking at its reader for the long words layout.</p>
+                                            <p>Kami membekali mahasiswa dengan kompetensi digital berbasis praktik nyata,
+                                                teknologi industri terdepan, dan perspektif global untuk menciptakan
+                                                lulusan yang siap bersaing dan berkontribusi bagi kemajuan bangsa.</p>
                                             <i class="far fa-quote-right"></i>
                                         </div>
                                     </div>
@@ -238,7 +242,7 @@
                                     <div class="icon"><i class="fal fa-headset"></i></div>
                                     <div class="number">
                                         <span>Call Now</span>
-                                        <h6><a href="tel:+21236547898">+2 123 654 7898</a></h6>
+                                        <h6><a href="tel:+21236547898">+62 632331234</a></h6>
                                     </div>
                                 </div>
                             </div>
@@ -310,10 +314,12 @@
                 <div class="row">
                     <div class="col-lg-6 mx-auto">
                         <div class="site-heading text-center">
-                            <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> Our Courses</span>
-                            <h2 class="site-title">Let's Check Our <span>Courses</span></h2>
-                            <p>It is a long established fact that a reader will be distracted by the readable content of
-                                a page when looking at its layout.</p>
+                            <span class="site-title-tagline"><i class="far fa-book-open-reader"></i> our compotensi</span>
+                            <h2 class="site-title">Kenali Kompetensi Inti Kami <span>Kami</span></h2>
+                            <p>Program Studi D3 Teknologi Informasi IT Del menghadirkan kurikulum terapan yang dirancang
+                                untuk membekali mahasiswa dengan keterampilan digital, pemikiran inovatif,
+                                dan kesiapan profesional untuk menghadapi tantangan transformasi digital di
+                                berbagai sektor industri.</p>
                         </div>
                     </div>
                 </div>
@@ -574,7 +580,7 @@
             </div>
         </div>
         <!-- video-area end -->
-        
+
 
         <!-- team-area -->
         <div class="team-area py-120">
@@ -674,7 +680,7 @@
             </div>
         </div>
         <!-- team-area end -->
-        
+
 
         <!-- choose-area -->
         <div class="choose-area pt-80 pb-80">
