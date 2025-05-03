@@ -65,7 +65,7 @@
                                 </li>
 
                                 <li>
-                                    <a href="tel:+620632331234"><i class="far fa-phone-volume"></i> 0632-331234</a>
+                                    <a href="tel:+620632331234"><i class="far fa-phone-volume"></i>+62 632331234</a>
                                 </li>
 
                                 <li>

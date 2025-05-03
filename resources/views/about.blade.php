@@ -5,7 +5,7 @@
     <main class="main">
 
         <!-- breadcrumb -->
-        <div class="site-breadcrumb" style="background: url(public/assets/img/about/vokasi.jpeg)">
+        <div class="site-breadcrumb" style="background: url(public/admin/assets/img/vokasi.jpeg)">
             <div class="container">
                 <h2 class="breadcrumb-title">About Us</h2>
                 <ul class="breadcrumb-menu">
@@ -64,7 +64,7 @@
                                                 <img src="assets/img/icon/open-book.svg" alt="">
                                             </div>
                                             <div class="about-item-content">
-                                                <h5>Edukation Services</h5>
+                                                <h5>Layanan Pembelajaran Digital</h5>
                                                 <p>D3 Teknologi Informasi menawarkan pembelajaran praktis
                                                     berbasis teknologi yang efektif dan inspiratif.</p>
                                             </div>
@@ -74,7 +74,7 @@
                                                 <img src="assets/img/icon/global-education.svg" alt="">
                                             </div>
                                             <div class="about-item-content">
-                                                <h5>International Hubs</h5>
+                                                <h5>Kolaborasi</h5>
                                                 <p>D3 Teknologi Informasi menjalin kolaborasi global
                                                     untuk memperluas wawasan dan jejaring mahasiswa.</p>
                                             </div>
